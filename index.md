@@ -17,7 +17,8 @@ Feel free to contact me to learn more about my experience working with these pro
 
 ***
 
-[Examining the effect of environmental factors and weather on Bike rentals](projects/inear_regression/Lenear_project1final.ipynb)
+[Examining the effect of environmental factors and weather on Bike rentals](https://github.com/MarceloD02/Marcelo-Goncalves-Portfolio/blob/main/projects/Lenear_project1final.ipynb)
+
 
 <img src="images/seoul-bikes.jpeg?raw=true"/>
 
