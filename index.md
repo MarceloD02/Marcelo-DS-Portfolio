@@ -22,6 +22,13 @@ Feel free to contact me to learn more about my experience working with these pro
 
 <img src="images/seoul-bikes.jpeg?raw=true"/>
 
+
+ - <b>accuracy score</b>: 94%
+- <b>skills used:</b> python,sklearn,logistic Regression,pandas,numpy, pickle
+- <b>Project Description:</b>: Predicting Heart Disease. Analyze the data set and identify most relevant heart disease related risk factors as well as predict the overall risk.
+- Used various logisitic models to find the appropreite model to get more accurate scores 
+-   -Random Forest Gave us the best estimator
+
 - Used Linear Regression to predict the number of bikes rented in the city of Seoul
 - The data had quite a few categorical variables which were encoded for use in the model
 - Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
