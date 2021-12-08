@@ -65,7 +65,7 @@ Feel free to contact me to learn more about my experience working with these pro
    
 ***
 
-[Predict the probability of a click being fraud or not in a chiness company (TalkingData)](https://github.com/MarceloD02/Talking_Data_Bagging_Boosting)
+[Predict the probability of a click being fraud or not in a chiness company (TalkingData)](https://github.com/MarceloD02/Talking_Data_Bagging_Boosting/blob/20eeff815a9a2eede99ccacf231477e722188ecc/Bagging%20and%20Boosting%20ensemble_project.ipynb)
 
 <img src="images/talkingdata.jpg" raw=true width=800>
 
