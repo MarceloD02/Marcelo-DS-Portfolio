@@ -101,7 +101,7 @@ Feel free to contact me to learn more about my experience working with these pro
 
  ***
 
-[K-Means clustering model for State authorities/Policy makers](projects/Kmean_project.ipynb)
+[K-Means clustering model for State authorities/Policy makers](https://github.com/MarceloD02/K_mean_Projects/blob/a38bd91e362c641956e8c215f0c3aa66ee31e411/K_mean_project.ipynb)
 
  <img src="images/closterin_house.PNG" raw=true width=800>
  
