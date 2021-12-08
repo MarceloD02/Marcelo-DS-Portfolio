@@ -84,7 +84,7 @@ Feel free to contact me to learn more about my experience working with these pro
  
  ***
 
- [The idea in this project is to predict the housing price in the Ames Lowa by using Principal Component Analysis PCA](projects/PCA_project.ipynb)
+ [The idea in this project is to predict the housing price in the Ames Lowa by using Principal Component Analysis PCA](https://github.com/MarceloD02/PCA_Projects/blob/959c2a8cf0aff89d92cc505bc6e9fcfbe6762fb5/PCA_project.ipynb)
  
  <img src="images/housing-bubble-main-image.png" raw=true width=800>
 
