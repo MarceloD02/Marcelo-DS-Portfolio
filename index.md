@@ -31,7 +31,7 @@ Feel free to contact me to learn more about my experience working with these pro
 
 ***
 
-[Predict if the client will subscrebe a term deposit ](https://github.com/MarceloD02/Logistic-regression/blob/0283b8832fb96a28bd4215e4398425b3b7d44017/Final_project_LR.ipynb)
+[Predict if the client will subscribe a term deposit ](https://github.com/MarceloD02/Logistic-regression/blob/0283b8832fb96a28bd4215e4398425b3b7d44017/Final_project_LR.ipynb)
 
 <img src="images/BPI_Lisboa.jpg" width ="800">
 
