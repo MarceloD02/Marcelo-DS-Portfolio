@@ -7,6 +7,7 @@ On this page, I will present some of the best Data Science Projects that I have 
 - Bagging and Boosting ensemble model
 - Principle Component Analysis (PCA)  
 - K-means clustering
+- Convolution  Neural Network 
      
 I like to understand and compare the results to see which machine-leaning algorithms are appropriate for a particular type of problem.
 
@@ -22,7 +23,7 @@ Feel free to contact me to learn more about my experience working with these pro
 
 <b>Project objctive: </b> By predicting the bike rental demand in advance from weather forecast, Bike Rental Company position the bike according to customers demands resulting in increase in bike utilization.
 
-<b>Quantifiable Result:</b> We could predict the rentals resulting in 46% accuracy and 134% increase in bike utiliation.
+<b>Quantifiable Result:</b> We could predict the rentals resulting in 46% accuracy.
 
    - Used Linear Regression to predict the number of bikes rented in the city of Seoul
    - The data had quite a few categorical variables which were encoded for use in the model
@@ -92,7 +93,7 @@ Feel free to contact me to learn more about my experience working with these pro
 
 <b>Project objctive: </b> Applying PCA to the cleaned up data to increase intrepretability; while minimizing information lost
 
-<b>Quantifiable Result:</b> Orginal - 81 Features - R2 = 0.06444, PCA - 2 Features - R2 = 0.8899
+<b>Quantifiable Result:</b> Orginal - 81 Features - accuracy = 64%, PCA - 37 - Accuracy = 88%
 
    - Linear Regression proved to be the better model for the orginal dataset, afterwards transfomred to data to smaller features using PCA
    - Extract numerical columns
