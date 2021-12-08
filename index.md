@@ -47,7 +47,7 @@ Feel free to contact me to learn more about my experience working with these pro
    - Used Logistic regression classifier to improve on the data to make better prediction on whether the client will subcribe or not
    - Explored a machine learning approach to predict by using Sklearn numeric
 
-[Identifying symptoms of orthopedic patients as normal or abnormal](projects/KNN_Project.ipynb)
+[Identifying symptoms of orthopedic patients as normal or abnormal](https://github.com/MarceloD02/KNN_Projects/blob/3c1746d5e7b8b078d59bd60f3cf49212f0932ab7/KNN_Project.ipynb)
 
 <img src="images/Capture.PNG" raw=true width=800>
 
