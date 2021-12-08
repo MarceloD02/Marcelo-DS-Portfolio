@@ -22,7 +22,7 @@ Feel free to contact me to learn more about my experience working with these pro
 
 <b>Project objctive: </b> By predicting the bike rental demand in advance from weather forecast, Bike Rental Company position the bike according to customers demands resulting in increase in bike utilization.
 
-<b>Quantifiable Result:</b> We could predict the rentals resulting in 94% accuracy and 134% increase in bike utiliation.
+<b>Quantifiable Result:</b> We could predict the rentals resulting in 46% accuracy and 134% increase in bike utiliation.
 
    - Used Linear Regression to predict the number of bikes rented in the city of Seoul
    - The data had quite a few categorical variables which were encoded for use in the model
@@ -31,7 +31,7 @@ Feel free to contact me to learn more about my experience working with these pro
 
 ***
 
-[Predict if the client will subscrebe a term deposit ](projects/Projects/Final_project_LR.ipynb)
+[Predict if the client will subscrebe a term deposit ](https://github.com/MarceloD02/Logistic-regression/blob/0283b8832fb96a28bd4215e4398425b3b7d44017/Final_project_LR.ipynb)
 
 <img src="images/BPI_Lisboa.jpg" width ="800">
 
